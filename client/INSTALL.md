@@ -16,7 +16,7 @@ Première utilisation
 Récupérez une copie du modèle :
 
 ```sh
-git clone git@github.com:O-clock-Crusoe/React-modele.git
+https://github.com/damienh972/Blockchain-based-voting-protocol.git
 
 cd React-modele
 
