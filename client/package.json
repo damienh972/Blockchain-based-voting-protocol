@@ -49,15 +49,20 @@
     "sass-loader": "*",
     "style-loader": "*",
     "terser-webpack-plugin": "*",
-    "webpack": "*",
-    "webpack-cli": "*",
-    "webpack-dev-server": "*",
+    "webpack": "^4.41.3",
+    "webpack-dev-server": "^3.9.0",
     "webpack-merge": "*"
   },
   "dependencies": {
-    "web3": "1.2.2",
     "prop-types": "*",
     "react": "*",
-    "react-dom": "*"
+    "react-dom": "*",
+    "react-router": "^5.2.0",
+    "react-router-dom": "^5.2.0",
+    "regenerator-runtime": "^0.13.7",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^2.0.1",
+    "web3": "1.2.2",
+    "webpack-cli": "^3.3.10"
   }
 }
